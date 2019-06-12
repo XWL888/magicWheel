@@ -1,0 +1,55 @@
+
+daojishi.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/001
+  rotate: true
+  xy: 221, 14
+  size: 66, 136
+  orig: 66, 136
+  offset: 0, 0
+  index: -1
+images/002
+  rotate: true
+  xy: 359, 4
+  size: 99, 138
+  orig: 99, 138
+  offset: 0, 0
+  index: -1
+images/003
+  rotate: false
+  xy: 309, 105
+  size: 100, 138
+  orig: 100, 138
+  offset: 0, 0
+  index: -1
+images/b1
+  rotate: true
+  xy: 411, 126
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+images/b2
+  rotate: true
+  xy: 2, 2
+  size: 241, 217
+  orig: 241, 217
+  offset: 0, 0
+  index: -1
+images/b3
+  rotate: true
+  xy: 221, 82
+  size: 161, 86
+  orig: 161, 86
+  offset: 0, 0
+  index: -1
+images/s2
+  rotate: true
+  xy: 411, 185
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1

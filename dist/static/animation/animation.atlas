@@ -1,0 +1,342 @@
+
+animation.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Electricity 012 Impact Charge Up_00000
+  rotate: false
+  xy: 744, 58
+  size: 46, 78
+  orig: 46, 78
+  offset: 0, 0
+  index: -1
+images/Electricity 012 Impact Charge Up_00001
+  rotate: true
+  xy: 187, 357
+  size: 47, 146
+  orig: 47, 146
+  offset: 0, 0
+  index: -1
+images/Electricity 012 Impact Charge Up_00002
+  rotate: true
+  xy: 335, 305
+  size: 65, 145
+  orig: 65, 145
+  offset: 0, 0
+  index: -1
+images/Electricity 012 Impact Charge Up_00004
+  rotate: true
+  xy: 138, 39
+  size: 65, 146
+  orig: 65, 146
+  offset: 0, 0
+  index: -1
+images/Electricity 012 Impact Charge Up_00006
+  rotate: true
+  xy: 308, 231
+  size: 72, 130
+  orig: 72, 130
+  offset: 0, 0
+  index: -1
+images/Electricity 012 Impact Charge Up_00007
+  rotate: false
+  xy: 647, 21
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+images/Electricity 012 Impact Charge Up_00008
+  rotate: true
+  xy: 286, 23
+  size: 79, 125
+  orig: 79, 125
+  offset: 0, 0
+  index: -1
+images/Electricity 012 Impact Charge Up_00009
+  rotate: false
+  xy: 792, 42
+  size: 70, 42
+  orig: 70, 42
+  offset: 0, 0
+  index: -1
+images/Electricity 012 Impact Charge Up_00010
+  rotate: false
+  xy: 496, 20
+  size: 74, 82
+  orig: 74, 82
+  offset: 0, 0
+  index: -1
+images/Fire 015 Impact Radial_00000
+  rotate: false
+  xy: 920, 311
+  size: 92, 90
+  orig: 92, 90
+  offset: 0, 0
+  index: -1
+images/Fire 015 Impact Radial_00002
+  rotate: false
+  xy: 661, 138
+  size: 109, 107
+  orig: 109, 107
+  offset: 0, 0
+  index: -1
+images/Fire 015 Impact Radial_00004
+  rotate: false
+  xy: 655, 247
+  size: 123, 116
+  orig: 123, 116
+  offset: 0, 0
+  index: -1
+images/Fire 015 Impact Radial_00006
+  rotate: false
+  xy: 666, 365
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/Fire 015 Impact Radial_00008
+  rotate: false
+  xy: 793, 385
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/Fire 015 Impact Radial_00010
+  rotate: false
+  xy: 170, 106
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/Fire 015 Impact Radial_00012
+  rotate: false
+  xy: 297, 104
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/Fire 015 Impact Radial_00014
+  rotate: false
+  xy: 793, 258
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/Fire 015 Impact Radial_00016
+  rotate: false
+  xy: 424, 104
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/Fire 015 Impact Radial_00018
+  rotate: false
+  xy: 528, 240
+  size: 125, 124
+  orig: 125, 124
+  offset: 0, 0
+  index: -1
+images/Fire 015 Impact Radial_00020
+  rotate: true
+  xy: 551, 116
+  size: 122, 108
+  orig: 122, 108
+  offset: 0, 0
+  index: -1
+images/Fire 015 Impact Radial_00022
+  rotate: false
+  xy: 920, 236
+  size: 95, 73
+  orig: 95, 73
+  offset: 0, 0
+  index: -1
+images/Smoke 042 Radial MIX_00000
+  rotate: true
+  xy: 1000, 205
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+images/Smoke 042 Radial MIX_00002
+  rotate: false
+  xy: 482, 314
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+images/Smoke 042 Radial MIX_00004
+  rotate: false
+  xy: 863, 120
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+images/Smoke 042 Radial MIX_00006
+  rotate: false
+  xy: 938, 30
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+images/Smoke 042 Radial MIX_00008
+  rotate: true
+  xy: 864, 30
+  size: 64, 72
+  orig: 64, 72
+  offset: 0, 0
+  index: -1
+images/Smoke 042 Radial MIX_00010
+  rotate: true
+  xy: 920, 96
+  size: 66, 75
+  orig: 66, 75
+  offset: 0, 0
+  index: -1
+images/Smoke 042 Radial MIX_00012
+  rotate: false
+  xy: 792, 86
+  size: 69, 77
+  orig: 69, 77
+  offset: 0, 0
+  index: -1
+images/Smoke 042 Radial MIX_00014
+  rotate: true
+  xy: 920, 164
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: -1
+images/Smoke 042 Radial MIX_00015
+  rotate: false
+  xy: 847, 178
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: -1
+images/Smoke 042 Radial MIX_00017
+  rotate: false
+  xy: 772, 165
+  size: 73, 80
+  orig: 73, 80
+  offset: 0, 0
+  index: -1
+images/Smoke 042 Radial MIX_00018
+  rotate: false
+  xy: 572, 33
+  size: 73, 81
+  orig: 73, 81
+  offset: 0, 0
+  index: -1
+images/Smoke 042 Radial MIX_00019
+  rotate: true
+  xy: 661, 63
+  size: 73, 81
+  orig: 73, 81
+  offset: 0, 0
+  index: -1
+images/a1
+  rotate: false
+  xy: 529, 492
+  size: 241, 18
+  orig: 241, 18
+  offset: 0, 0
+  index: -1
+images/a2
+  rotate: false
+  xy: 138, 19
+  size: 119, 18
+  orig: 119, 18
+  offset: 0, 0
+  index: -1
+images/a3
+  rotate: false
+  xy: 335, 372
+  size: 190, 20
+  orig: 190, 20
+  offset: 0, 0
+  index: -1
+images/a4
+  rotate: true
+  xy: 413, 26
+  size: 76, 81
+  orig: 76, 81
+  offset: 0, 0
+  index: -1
+images/a5
+  rotate: false
+  xy: 440, 231
+  size: 86, 72
+  orig: 86, 72
+  offset: 0, 0
+  index: -1
+images/dianguangxiaoguo02
+  rotate: false
+  xy: 2, 266
+  size: 176, 121
+  orig: 176, 121
+  offset: 0, 0
+  index: -1
+images/dianguangxiaoguo06
+  rotate: false
+  xy: 2, 389
+  size: 183, 121
+  orig: 183, 121
+  offset: 0, 0
+  index: -1
+images/dianguangxiaoguo10
+  rotate: false
+  xy: 2, 138
+  size: 166, 126
+  orig: 166, 126
+  offset: 0, 0
+  index: -1
+images/dianguangxiaoguo14
+  rotate: false
+  xy: 187, 406
+  size: 178, 104
+  orig: 178, 104
+  offset: 0, 0
+  index: -1
+images/dianguangxiaoguo18
+  rotate: false
+  xy: 367, 394
+  size: 160, 116
+  orig: 160, 116
+  offset: 0, 0
+  index: -1
+images/dianguangxiaoguo22
+  rotate: false
+  xy: 529, 366
+  size: 135, 124
+  orig: 135, 124
+  offset: 0, 0
+  index: -1
+images/dianguangxiaoguo26
+  rotate: false
+  xy: 2, 2
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+images/dianguangxiaoguo30
+  rotate: true
+  xy: 180, 233
+  size: 122, 126
+  orig: 122, 126
+  offset: 0, 0
+  index: -1
+images/dianguangxiaoguo34
+  rotate: true
+  xy: 920, 403
+  size: 107, 98
+  orig: 107, 98
+  offset: 0, 0
+  index: -1
+images/s1
+  rotate: false
+  xy: 717, 19
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1

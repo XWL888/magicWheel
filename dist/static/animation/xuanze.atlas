@@ -1,0 +1,27 @@
+
+xuanze.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/guangdan
+  rotate: true
+  xy: 2, 40
+  size: 72, 166
+  orig: 72, 166
+  offset: 0, 0
+  index: -1
+images/lizi1
+  rotate: false
+  xy: 170, 2
+  size: 115, 110
+  orig: 115, 110
+  offset: 0, 0
+  index: -1
+images/mofabang
+  rotate: false
+  xy: 287, 29
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1

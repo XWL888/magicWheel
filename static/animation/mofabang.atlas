@@ -1,0 +1,27 @@
+
+mofabang.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/3
+  rotate: false
+  xy: 2, 2
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+images/mofabang
+  rotate: false
+  xy: 115, 30
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images/s1
+  rotate: false
+  xy: 200, 76
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
